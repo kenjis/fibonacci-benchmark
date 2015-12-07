@@ -1,0 +1,25 @@
+PHP 7.0.1-dev (cli) (built: Dec  6 2015 22:09:49) ( NTS )
+This is perl 5, version 20, subversion 2 (v5.20.2) built for x86_64-linux-gnu-thread-multi
+Python 2.7.9
+ruby 2.1.5p273 (2014-11-13) [x86_64-linux-gnu]
+
+php:
+63245986
+6.59user 0.01system 0:06.61elapsed 99%CPU (0avgtext+0avgdata 15368maxresident)k
+0inputs+0outputs (0major+3589minor)pagefaults 0swaps
+
+perl:
+63245986
+66.14user 0.03system 1:06.21elapsed 99%CPU (0avgtext+0avgdata 2040maxresident)k
+0inputs+0outputs (0major+563minor)pagefaults 0swaps
+
+python:
+63245986
+21.44user 0.02system 0:21.47elapsed 99%CPU (0avgtext+0avgdata 4424maxresident)k
+0inputs+0outputs (0major+1225minor)pagefaults 0swaps
+
+ruby:
+63245986
+10.86user 0.01system 0:10.88elapsed 99%CPU (0avgtext+0avgdata 7004maxresident)k
+0inputs+0outputs (0major+1843minor)pagefaults 0swaps
+
